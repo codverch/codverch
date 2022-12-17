@@ -4,7 +4,7 @@ Hi, I am Deepanjali Mishra
 </p>
 
 <p align="center"> <b>Research Fellow, Microsoft Research</p></b>
-<p align="center"><b> Advised by Dr. Vivek Seshadri</b>
+
 
  
 
