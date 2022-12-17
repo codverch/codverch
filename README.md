@@ -11,7 +11,7 @@ Hi, I am Deepanjali Mishra
 ```mermaid
 flowchart LR
     id1([Computer Architecture]) 
-    style id1 fill:#000000,color:#ffd966, scale:1
+    style id1 fill:#bcbcbc,color:#990000,   scale:1
 ```
   
         
