@@ -10,5 +10,5 @@ flowchart LR
 flowchart LR
     id1(Interest)-->id2(Computer Architecture Research)
     style id1 fill:#5b
-    style id2 fill:#999999,color:#990000
+    style id2 fill:#000000,color:#ffd966
 ```
