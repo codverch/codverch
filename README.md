@@ -8,7 +8,7 @@ flowchart LR
     
 ```mermaid
 flowchart LR
-    id1(Interest)-->id2(Computer Architecture Research)
+    id1(Interest)-->id2(Computer Architecture)
     style id1 fill:#5b
     style id2 fill:#000000,color:#ffd966
 ```
