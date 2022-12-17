@@ -3,8 +3,8 @@
 Hi, I am Deepanjali Mishra
 </p>
 
-<p align="center"> Research Fellow, Microsoft Research</p>
-<p align="center"> Advised by Dr. Vivek Seshadri
+<p align="center"> <b><sup>Research Fellow, Microsoft Research</p></b></sup>
+<p align="center"><b> <sub>Advised by Dr. Vivek Seshadri</b></sub>
 
  
 
