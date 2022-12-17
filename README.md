@@ -1,10 +1,17 @@
 
+
+#### <p align=center> Hi, I am Deepanjali Mishra
+    
 ```mermaid
 flowchart LR
-    id1([Hi, I am Deepanjali Mishra])
+    id1([Research Fellow at Microsoft Research])
    ```
-<p align=center>Research Fellow at Microsoft Research
-<p align=center>Advisor: Dr. Vivek Seshadri
+        
+```mermaid
+flowchart LR
+    id1([Advised by Dr. Vivek Seshadri])
+   ```
+
     
 ```mermaid
 flowchart LR
